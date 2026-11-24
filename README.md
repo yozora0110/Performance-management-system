@@ -300,6 +300,10 @@ BOYNEXTDOOR-Hollywood Action/6/林佳晨、戴婕安、徐婕恩、林姿佑、�
 ## 十一、Demo影片網址
 https://www.youtube.com/watch?v=ibWJAEh1kX0
 
+### 網頁版線上體驗
+
+[點此前往成發表演曲目管理系統 Web 版本](https://yozora0110.github.io/Performance-management-system-web/)
+
 ## 十二、結論
 
 本系統完成了成發表演曲目管理的基本需求，包含匯入資料、顯示完整清單、Battle 判斷、查表演者、查團體與查人數等功能。
